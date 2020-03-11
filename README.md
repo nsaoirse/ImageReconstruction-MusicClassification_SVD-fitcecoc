@@ -154,26 +154,7 @@ Classification Algorithm</b></p>
 normal;text-autospace:none'><span style='font-size:10.0pt;font-family:"Courier New";
 color:black'>      </span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:107%;font-family:
-"Courier New";color:black'>&nbsp;</span></p>
 
 <p class=MsoNormal>
 
@@ -245,22 +226,14 @@ height=126 id="Picture 24" src="GHexport_files/image009.jpg"></p>
 Reconstruction (Uncropped Image Set)</p>
 
 <p class=MsoNormal style='page-break-after:avoid'><img border=0 width=465
-height=193 id="Picture 28" src="GHexport_files/image010.png"></p>
+height=193 id="Picture 28" src="GHexport_files/image010.png"> </span>Figure 4: Lower Rank Image
+Reconstruction (Cropped Image Set)</p>
+
 
 <p class=MsoCaption><span style='position:absolute;z-index:251653120;
 margin-left:0px;margin-top:23px;width:616px;height:222px'><img width=616
-height=222 src="GHexport_files/image011.png"></span>Figure 4: Lower Rank Image
-Reconstruction (Cropped Image Set)</p>
-
-<p class=MsoCaption>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
+height=222 src="GHexport_files/image011.png">
+</p>
 
 <p class=MsoNormal style='text-indent:.5in'><img width=624 height=28
 src="GHexport_files/image012.png" align=right hspace=12
@@ -370,11 +343,6 @@ fitcecoc Multiclass SVM model</h3>
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;color:#1F3763'>&nbsp;</span></p>
 
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 <h2><span style='position:relative;z-index:251682816;left:-12px;top:0px;
 width:666px;height:588px'><img width=666 height=588
