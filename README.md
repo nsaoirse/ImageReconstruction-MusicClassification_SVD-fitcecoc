@@ -150,30 +150,14 @@ src="GHexport_files/image006.png"></span>                </p>
 <p class=MsoNormal style='text-indent:.5in'><b>Image Reconstruction Algorithm                                              Music
 Classification Algorithm</b></p>
 
+<p class=MsoCaption style='page-break-after:avoid'><img border=0 width=625
+height=45 id="Picture 24" src="GHexport_files/image007.png"></p>
+
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal;text-autospace:none'><span style='font-size:10.0pt;font-family:"Courier New";
 color:black'>      </span></p>
 
-<p class=MsoNormal>
 
-<table cellpadding=0 cellspacing=0 align=left>
- <tr>
-  <td width=0 height=21></td>
- </tr>
- <tr>
-  <td></td>
-  <td><img width=629 height=28 src="GHexport_files/image007.png"
-  alt="Figure 1: Algorithm Overview"></td>
- </tr>
-</table>
-
-<span style='font-size:10.0pt;line-height:107%;font-family:"Courier New";
-color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
-line-height:107%;font-family:"Courier New";color:black'>&nbsp;</span></p>
-
-<br clear=ALL>
 
 <p class=MsoNormal style='text-indent:.5in'><span style='font-size:9.5pt;
 line-height:107%'>The algorithm used for this analysis can be described
@@ -219,6 +203,7 @@ Reconstruction (Cropped Image Set)</p>
 
 <p class=MsoCaption style='page-break-after:avoid'><img border=0 width=625
 height=126 id="Picture 24" src="GHexport_files/image009.jpg"></p>
+
 
 <p class=MsoCaption>Figure 3:Most Powerful Modes for Random Given Image
 Reconstruction (Uncropped Image Set)</p>
