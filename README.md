@@ -154,8 +154,6 @@ Classification Algorithm</b></p>
 normal;text-autospace:none'><span style='font-size:10.0pt;font-family:"Courier New";
 color:black'>      </span></p>
 
-
-
 <p class=MsoNormal>
 
 <table cellpadding=0 cellspacing=0 align=left>
@@ -335,10 +333,13 @@ were seen with larger and larger training sets, but growth in positive
 identification of classifiers was relatively unsteady with respect to the growth
 of the size of the training data.</span></p>
 
-<h3><span style='position:absolute;z-index:251680768;margin-left:-19px;
-margin-top:32px;width:701px;height:535px'><img width=701 height=535
-src="GHexport_files/image014.png"></span>Confusion Matrices for MATLAB’s
+<h3>
+</span>Confusion Matrices for MATLAB’s
 fitcecoc Multiclass SVM model</h3>
+
+<p class=MsoNormal> <span style='position:absolute;z-index:251680768;margin-left:-19px;
+margin-top:32px;width:701px;height:535px'><img width=701 height=535
+src="GHexport_files/image014.png"></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;color:#1F3763'>&nbsp;</span></p>
